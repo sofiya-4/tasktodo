@@ -14,5 +14,9 @@ Technical Specifications:
           Storage Solution: Local storage for task persistence.
 
 
+http://127.0.0.1:5500/index.html  url of my app
+
+
+
 
 
