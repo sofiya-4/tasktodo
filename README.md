@@ -16,6 +16,7 @@ Technical Specifications:
 
 http://127.0.0.1:5500/index.html  url of my app
 
+![Screenshot 2024-01-10 150143](https://github.com/sofiya-4/tasktodo/assets/84436161/32e5e834-86dc-4083-a909-b809d6338b2f)
 
 
 
