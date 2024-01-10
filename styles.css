@@ -1,0 +1,66 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg,#24272d35,#1c0443);
+    margin: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 145px auto;
+    background-color: #c1d094;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(120, 88, 88, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#task-form {
+    margin-bottom: 20px;
+}
+
+input, textarea, select, button {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #2e1d68;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #54505a;
+}
+
+#task-list {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.task {
+    border: 1px solid #e3dede;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background-color: #c6bcc1;
+}
+
+.task .task-title {
+    font-weight: bold;
+}
+
+.task .task-description {
+    color: #666;
+}
+
+.task .task-due-date {
+    color: #24785f;
+    font-weight: bold;
+}
